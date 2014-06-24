@@ -1,6 +1,11 @@
 Cir-Cumference README
+<<<<<<< HEAD
 ==============
 asdfas
+=======
+asdfas
+
+>>>>>>> c3cc0e432633deaebd6b689ebc09407edcc61712
 Hey!
 
 We can make changes here to record progress.
