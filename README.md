@@ -1,4 +1,25 @@
-Cir-Cumference
+Cir-Cumference README
 ==============
 
-Cir-Cumference Game
+Hey!
+
+We can make changes here to record progress.
+
+
+
+Recent Changes:
+-
+-
+-
+
+
+To Do:
+-
+-
+-
+
+
+Bugs:
+-
+-
+-
